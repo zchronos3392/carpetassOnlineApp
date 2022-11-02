@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\laragon\www\carpetas\Carpetas.clpprj">
+	<settings>
+		<PM_URL><![CDATA[C:/laragon/www/carpetas/]]></PM_URL><PM_HOME_URL><![CDATA[C:/laragon/www/carpetas/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";D:\laragon\www\carpetas\apis\eliminar_colegio.php;"/><added value="C:\laragon\www\carpetas\index.phpold;"/><lastopfiles>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\laragon\www\carpetas\styles\normalize.css" crc="1646013113"/>
+		<file name="C:\laragon\www\carpetas\styles\iconstyle.css" crc="1646013114"/>
+		<file name="C:\laragon\www\carpetas\styles\estiloGaleriaCarpetas.css" crc="1646013114"/>
+		<file name="C:\laragon\www\carpetas\styles\diseñoCarpetas.css" crc="1646013114"/>
+		<file name="C:\laragon\www\carpetas\styles\disenioCarpetas.css" crc="1667334659"/>
+		<file name="C:\laragon\www\carpetas\styles\demo.js" crc="1646013114"/>
+		<file name="C:\laragon\www\carpetas\styles\demo.css" crc="1646013115"/>
+		<file name="C:\laragon\www\carpetas\scripts\mainGaleriaCarpetas.js" crc="1646013113"/>
+		<file name="C:\laragon\www\carpetas\scripts\carpetas.js" crc="1667334581"/>
+		<file name="C:\laragon\www\carpetas\navegadorcarpetas\materializeGallery\js\main.js" crc="1646013113"/>
+		<file name="C:\laragon\www\carpetas\navegadorcarpetas\materializeGallery\css\estilos.css" crc="1646013108"/>
+		<file name="C:\laragon\www\carpetas\navegadorcarpetas\materializeGallery\index.html" crc="1646013108"/>
+		<file name="C:\laragon\www\carpetas\imagenes\CONSIDERACIONES PARA LOGOS.txt" crc="1646013107"/>
+		<file name="C:\laragon\www\carpetas\apis\RelacionPersona.php" crc="1646229181"/>
+		<file name="C:\laragon\www\carpetas\apis\procesar_materias.php" crc="1646517479"/>
+		<file name="C:\laragon\www\carpetas\apis\Persona.php" crc="1655930680"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_relacionAlumnoEspec.php" crc="1646229287"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_personas.php" crc="1646240661"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_niveles.php" crc="1646013100"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_materias_peso_persona.php" crc="1648826479"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_materias_personaX.php" crc="1646588745"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_materias_persona.php" crc="1648822585"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_materias.php" crc="1646013100"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_lista_updates.php" crc="1667332725"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_cursos.php" crc="1646013100"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_colegios.php" crc="1646013100"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_carpeta_materia_personav2.php" crc="1666983207"/>
+		<file name="C:\laragon\www\carpetas\apis\obtener_carpeta_materia_persona.php" crc="1666983365"/>
+		<file name="C:\laragon\www\carpetas\apis\Nivel.php" crc="1646013102"/>
+		<file name="C:\laragon\www\carpetas\apis\mysql_login.php" crc="1646013100"/>
+		<file name="C:\laragon\www\carpetas\apis\MateriaCarpeta.php" crc="1646013102"/>
+		<file name="C:\laragon\www\carpetas\apis\Materia.php" crc="1646588592"/>
+		<file name="C:\laragon\www\carpetas\apis\insertar_persona.php" crc="1646013100"/>
+		<file name="C:\laragon\www\carpetas\apis\insertar_nivel.php" crc="1646013100"/>
+		<file name="C:\laragon\www\carpetas\apis\insertar_materia_persona.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\insertar_materia.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\insertar_curso.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\insertar_colegio_persona.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\insertar_colegio.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\insertar_alumnoEspec.php" crc="1646229140"/>
+		<file name="C:\laragon\www\carpetas\apis\eliminar_persona.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\eliminar_nivel.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\eliminar_materia.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\eliminar_curso.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\eliminar_colegio.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\eliminar_alumnoEspec.php" crc="1646226081"/>
+		<file name="C:\laragon\www\carpetas\apis\database.php" crc="1646013101"/>
+		<file name="C:\laragon\www\carpetas\apis\Curso.php" crc="1646013102"/>
+		<file name="C:\laragon\www\carpetas\apis\curFunciones.php" crc="1648587883"/>
+		<file name="C:\laragon\www\carpetas\apis\Colegio.php" crc="1646013102"/>
+		<file name="C:\laragon\www\carpetas\apis\Carpeta.php" crc="1667334897"/>
+		<file name="C:\laragon\www\carpetas\verMateriasAlumno.php" crc="1666982611"/>
+		<file name="C:\laragon\www\carpetas\tests.php" crc="1646013098"/>
+		<file name="C:\laragon\www\carpetas\NewFile.html" crc="1646013099"/>
+		<file name="C:\laragon\www\carpetas\index.phpold" crc="1646013098"/>
+		<file name="C:\laragon\www\carpetas\index.php" crc="1667335064"/>
+		<file name="C:\laragon\www\carpetas\header.html" crc="1646013099"/>
+		<file name="C:\laragon\www\carpetas\cargaHojasMateriasAlumno.php" crc="1666821151"/>
+		<file name="C:\laragon\www\carpetas\c0990415_cursos.sql" crc="1646013099"/>
+		<file name="C:\laragon\www\carpetas\asignarmaterias.php" crc="1646585044"/>
+	</filescache>
+</project>
