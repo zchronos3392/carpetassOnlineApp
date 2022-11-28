@@ -2,9 +2,12 @@
 <project name="C:\laragon\www\carpetas\Carpetas.clpprj">
 	<settings>
 		<PM_URL><![CDATA[C:/laragon/www/carpetas/]]></PM_URL><PM_HOME_URL><![CDATA[C:/laragon/www/carpetas/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";D:\laragon\www\carpetas\apis\eliminar_colegio.php;"/><added value="C:\laragon\www\carpetas\index.phpold;"/><lastopfiles>
+		<file name="C:\laragon\www\carpetas\apis\mysql_login.php"/>
 	</lastopfiles>
 	<todoblock>
 	</todoblock>
+	<dbgurls>
+	</dbgurls>
 	<filescache>
 		<file name="C:\laragon\www\carpetas\styles\normalize.css" crc="1646013113"/>
 		<file name="C:\laragon\www\carpetas\styles\iconstyle.css" crc="1646013114"/>
@@ -35,7 +38,7 @@
 		<file name="C:\laragon\www\carpetas\apis\obtener_carpeta_materia_personav2.php" crc="1666983207"/>
 		<file name="C:\laragon\www\carpetas\apis\obtener_carpeta_materia_persona.php" crc="1666983365"/>
 		<file name="C:\laragon\www\carpetas\apis\Nivel.php" crc="1646013102"/>
-		<file name="C:\laragon\www\carpetas\apis\mysql_login.php" crc="1646013100"/>
+		<file name="C:\laragon\www\carpetas\apis\mysql_login.php" crc="1669428016"/>
 		<file name="C:\laragon\www\carpetas\apis\MateriaCarpeta.php" crc="1646013102"/>
 		<file name="C:\laragon\www\carpetas\apis\Materia.php" crc="1646588592"/>
 		<file name="C:\laragon\www\carpetas\apis\insertar_persona.php" crc="1646013100"/>
@@ -60,7 +63,6 @@
 		<file name="C:\laragon\www\carpetas\verMateriasAlumno.php" crc="1666982611"/>
 		<file name="C:\laragon\www\carpetas\tests.php" crc="1646013098"/>
 		<file name="C:\laragon\www\carpetas\NewFile.html" crc="1646013099"/>
-		<file name="C:\laragon\www\carpetas\index.phpold" crc="1646013098"/>
 		<file name="C:\laragon\www\carpetas\index.php" crc="1667335064"/>
 		<file name="C:\laragon\www\carpetas\header.html" crc="1646013099"/>
 		<file name="C:\laragon\www\carpetas\cargaHojasMateriasAlumno.php" crc="1666821151"/>
